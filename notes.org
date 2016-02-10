@@ -1,0 +1,45 @@
+* Software Development - Term 2
+** 2/5/16
+*** Aim: Canvassing the nabe with DOM and HTML5
+*** DN: Engage your imagination, and put thoughts to paper
+**** The year is 1995. You are a HS senior.
+***** What are you wearing?
+****** Baggy pants, oversize tee shirt
+***** What does your CD collection look like?
+****** Backstreet Boys, *NSYNC
+***** What is the state of the internet?
+****** Dial-up, 56kb/s
+***** What does your webpage look like?
+****** Blocky
+****** www.angelfire.com/super/badwebs
+**** Cornerstone of WWW?
+***** HTML - allows for hyperlinks
+**** Browsers?
+***** Browser Wars:
+****** Netscape -> JavaScript
+****** IE -> JScript
+
+*** Late 90's: Enter the DOM
+**** W3C forms, introduces:
+***** Document Object Model
+****** Organizes componenents of a webpage as a tree
+****** Provides API for languages like JS to access page elements
+** 2/9/16
+*** Aim: Same as Friday
+*** DN: What did advent of DOM achieve? What not?
+**** Web 1.0
+***** Static
+***** Consume as user
+**** Web 2.0
+***** Dynamic
+***** Post content
+**** Flash on iOS?
+***** Consumes too much battery
+***** Not consistent on different devices
+**** HTML5
+***** Adds multimedia functions to the markup language
+***** Consistent
+*** Pair Programming
+**** 1 Keyboarder
+**** 1 Co-driver
+**** 2 Thinkers
